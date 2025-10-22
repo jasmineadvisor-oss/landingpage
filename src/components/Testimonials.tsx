@@ -168,7 +168,7 @@ const Testimonials: React.FC = () => {
 
                 <div className="flex items-center justify-between text-sm text-gray-500 border-t border-gray-200 group-hover:border-blue-200 pt-4 mt-4 transition-colors duration-300">
                   <span className="font-medium">{testimonial.project}</span>
-                  <span className="font-medium">Approved {testimonial.year}</span>
+                  <span className="font-medium">{testimonial.year}</span>
                 </div>
               </div>
             );
