@@ -61,11 +61,11 @@ const Benefits: React.FC = () => {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-3 gap-8 items-stretch">
           {benefits.map((benefit, index) => (
             <div
               key={index}
-              className={`group bg-white border border-gray-200 rounded-2xl p-8 hover:border-blue-300 hover:shadow-2xl hover:scale-[1.03] hover:-translate-y-2 transition-all duration-500 ease-out cursor-pointer flex flex-col h-full ${
+              className={`group bg-white border border-gray-200 rounded-2xl p-8 hover:border-blue-300 hover:shadow-2xl hover:scale-[1.03] hover:-translate-y-2 transition-all duration-500 ease-out cursor-pointer flex flex-col ${
                 isVisible ? `animate-on-scroll animate-delay-${index}00` : 'opacity-0'
               }`}
               style={{
@@ -76,14 +76,14 @@ const Benefits: React.FC = () => {
                 <benefit.icon className="h-7 w-7 text-white" />
               </div>
 
-              <h3 className="text-2xl font-bold text-gray-900 mb-4 leading-tight group-hover:text-blue-700 transition-colors duration-300">{benefit.title}</h3>
-              <p className="text-gray-600 mb-6 leading-relaxed flex-grow text-justify">{benefit.description}</p>
+              <h3 className="text-2xl font-bold text-gray-900 mb-4 leading-tight group-hover:text-blue-700 transition-colors duration-300 min-h-[4rem]">{benefit.title}</h3>
+              <p className="text-gray-600 mb-6 leading-relaxed text-left">{benefit.description}</p>
 
-              <ul className="space-y-3 mb-6">
+              <ul className="space-y-3 mb-6 flex-grow">
                 {benefit.features.map((feature, featureIndex) => (
                   <li key={featureIndex} className="flex items-start text-gray-700 group/item hover:translate-x-1 transition-transform duration-300">
                     <ArrowRight className="h-4 w-4 text-blue-600 mr-2 mt-0.5 flex-shrink-0 group-hover/item:text-blue-700 group-hover/item:translate-x-1 group-hover/item:scale-110 transition-all duration-300" />
-                    <span className="text-sm leading-relaxed text-justify">{feature}</span>
+                    <span className="text-sm leading-relaxed text-left">{feature}</span>
                   </li>
                 ))}
               </ul>
