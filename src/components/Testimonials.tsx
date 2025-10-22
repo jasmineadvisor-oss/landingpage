@@ -44,7 +44,7 @@ const Testimonials: React.FC = () => {
     {
       name: "Chị Trần N.T.N.",
       location: "Chấp thuận I-526E ngày 19/9/2025",
-      image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      image: "/ava.webp",
       rating: 5,
       text: "Bắt tay với gia đình chúng tôi từ tháng 11/2024, chỉ trong vòng 4 tháng  với một phong cách làm việc chuyên nghiệp, cẩn thận, kiên trì và phối hợp nhiệt tình của đội ngũ Loyalpass đã giúp cho gia đình tôi chuẩn bị được một bộ hồ sơ hoàn thiện có rất nhiều chi tiết trong đó có những phần tưởng khó mà thực hiện để chúng tôi được USCIS xác nhận hồ sơ vào ngày 05/03/2025. Chính nhờ sự chuẩn bị khoa học, hợp lý, chặt chẽ nên bộ hồ sơ của chúng tôi đã được USCIS chấp thuận chỉ trong một thời gian ngắn 6.5 tháng vào ngày 19/09/2025.\n\nGia đình chúng tôi chân thành cảm ơn sự nhiệt tình của Loyalpass, một công ty rất trẻ trong lĩnh vực tư vấn di trú định cư nhưng đã giúp niềm tin của chúng tôi được khẳng định vững chắc. Chúng tôi tin rằng Loyalpass với đội ngũ các bạn tư vấn chuyên nghiệp, nhiệt tình, cẩn trọng sẽ giúp cho Loyalpass ngày càng phát triển vững bền trong lĩnh vực tư vấn di trú.",
       year: "Dự án EB-5 ưu tiên - Rural TEA"
