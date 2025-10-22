@@ -52,7 +52,7 @@ const Testimonials: React.FC = () => {
     {
       name: "Anh Nguyen H.T.", 
       location: "Chấp thuận I-526E ngày 21/01/2025",
-      image: "https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      image: "ava.webp",
       rating: 5,
       text: "Là khách hàng của Cty Loyalpass gia đình chúng tôi  gồm năm thành viên từ tháng 02/2024 được sự hướng dẫn của quí Công ty Loyalpass , chúng tôi đã hoàn tất việc nộp hồ sơ và đến 20/01/2025 chúng tôi nhận được thư chấp thuận của USCIS . Thật sự đó là một thành công và tin vui cho sự hợp tác thật hiệu quả của Quí Công ty.\n\nQua quá trình làm việc, được sự đồng hành và hỗ trợ rất nhiệt tình , tích cực và chuyên nghiệp của đội ngũ anh chị em  Loyalpass gia đình chúng tôi thật sự yên tâm và hạnh phúc vì đã đạt được kết quả đến hôm nay. Mong rằng trong thời gian tới Cty Loyalpass không ngừng phát triển và thành công hơn nữa để giúp đỡ các nhà đầu tư Việt Nam có điều kiện định cư tại Mỹ.",
       year: "Dự án EB-5 ưu tiên - Rural TEA"
@@ -60,7 +60,7 @@ const Testimonials: React.FC = () => {
     {
       name: "Anh Trương K. H & Chị Lê T. D. V.",
       location: "Chấp thuận I-526E ngày 06/08/2025",
-      image: "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      image: "ava.webp",
       rating: 5,
       text: "Thân gửi Team Loyalpass,\n\nLời đầu tiên, gia đình anh chị xin gửi lời cảm ơn chân thành đến đội ngũ Loyalpass đã tận tâm hỗ trợ và đồng hành cùng gia đình anh chị trong suốt quá trình làm hồ sơ EB-5 cho con. Là một người có nhiều kinh nghiệm làm việc với doanh nghiệp Hoa Kỳ và hiểu biết về di trú, nhưng anh cũng hết sức bất ngờ về kết quả của hồ sơ EB-5 của bé NGỌC, chỉ mất 6 tháng từ lúc bắt đầu mở hồ sơ cho đến khi nhận được thẻ xanh 2 năm, nhanh hơn cả mong đợi của gia đình.\n\nĐể có được kết quả tuyệt vời đó, gia đình tin rằng, nhờ sự chuyên nghiệp, nhiệt tình và minh bạch của các anh/chị trong công ty Loyalpass cũng như đối tác di trú tại Hoa Kỳ, đã kịp thời giải đáp mọi thắc mắc, từng bước thực hiện đều được hướng dẫn cẩn thận. Gia đình đã thật sự cảm thấy yên tâm tin tưởng khi làm việc với cty tư vấn Loyalpass.\n\nMột lần nữa, xin bày tỏ lời cảm ơn chân thành đến công ty. Chúc Loyalpass ngày càng phát triển và tiếp tục là người bạn đồng hành đáng tin cậy cho nhiều gia đình Việt Nam trên con đường định cư và hướng đến tương lai tốt đẹp hơn.\n\nThân mến,",
       year: "Dự án EB-5 ưu tiên - Rural TEA"
@@ -68,7 +68,7 @@ const Testimonials: React.FC = () => {
     {
       name: "Em Trương B.N.",
       location: "Được cấp Thẻ Xanh tháng 8/2025",
-      image: "https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      image: "ava.webp",
       rating: 5,
       text: "Kính gửi anh chị trong team Loyalpass\n\nEm xin gửi lời cảm ơn đến team Loyalpass đã đồng hành, hỗ trợ và luôn sát cánh cùng em và gia đình trong suốt hành trình làm hồ sơ EB-5.\n\nLà một du học sinh đang học tại Mỹ, ban đầu em và ba mẹ cũng khá lo lắng, bỡ ngỡ vì không biết bắt đầu từ đâu. Nhưng nhờ sự hướng dẫn tận tình, rõ ràng và rất chuyên nghiệp từ Loyalpass mọi thứ trở nên nhẹ nhàng và suôn sẻ hơn rất nhiều. Đặc biệt, việc nhận được thẻ xanh có điều kiện (2 năm) chỉ sau 6 tháng thật sự là một kết quả ngoài mong đợi đối với cả gia đình em.\n\nTrong suốt quá trình đó, em luôn cảm nhận được sự tận tâm, nhanh chóng và uy tín từ phía công ty – từ việc chuẩn bị giấy tờ, tư vấn đầu tư, đến những lúc giải đáp từng thắc mắc nhỏ của em và ba mẹ. Sự đồng hành của Loylpass không chỉ giúp em đạt được kết quả như mong muốn, mà còn mang lại cảm giác yên tâm và tin tưởng tuyệt đối cho gia đình em.\n\nHy vọng Loyalpass sẽ tiếp tục đồng hành cùng em và ba mẹ cho đến khi em nhận được thẻ xanh vĩnh viễn và hoàn tất việc nhận lại khoản đầu tư. Một lần nữa, em xin cảm ơn công ty đã luôn là chỗ dựa vững chắc trong hành trình quan trọng này của em.",
       year: "Dự án EB-5 ưu tiên - Rural TEA"
@@ -76,7 +76,7 @@ const Testimonials: React.FC = () => {
     {
       name: "Gia đình [Benz Nancy Kevin and Annie]",
       location: "Được cấp Thẻ Xanh 10/10/2025",
-      image: "https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      image: "ava.webp",
       rating: 5,
       text: "Từ những ngày đầu tiên làm việc, Loyalpass đã mang đến cho gia đình chúng tôi những ấn tượng và ký ức thật đẹp - từ cách tư vấn rõ ràng, trung thực và chi tiết, đến sự tận tâm của đội ngũ trong từng bước chuẩn bị hồ sơ, giải thích quy trình và hỗ trợ thủ tục. Chúng tôi đặc biệt cảm kích vì thời gian xử lý hồ sơ nhanh chóng và minh bạch, cùng sự đồng hành sát sao trong suốt quá trình thực hiện chương trình đầu tư EB-5 theo đạo luật mới. Loyalpass đã giúp mọi bước đi trở nên nhẹ nhàng và an tâm - đúng nghĩa là “người bạn đồng hành đáng tin cậy” trên hành trình đến nước Mỹ.\n\nGiờ đây, gia đình chúng tôi đã ổn định cuộc sống tại Hoa Kỳ, trong một môi trường tuyệt vời về khí hậu, giáo dục và cơ hội phát triển cho con cái. Chúng tôi đã có rất nhiều chuyến đi đáng nhớ - từ những kỳ nghỉ hè, Spring Break, đến các hành trình khám phá từ bờ Đông sang bờ Tây, qua những thành phố như Boston, New York, Washington D.C. San Francisco, Los Angeles, Houston, Dallas, Austin... và nhiều nơi khác. Mỗi chuyến đi là một trang ký ức hạnh phúc, là minh chứng cho thành quả mà Loyalpass đã giúp chúng tôi đạt được - một giấc mơ Mỹ trọn vẹn và thật sự.",
       year: "Dự án EB-5 ưu tiên - Rural TEA"
